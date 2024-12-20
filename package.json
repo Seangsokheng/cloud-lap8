@@ -1,0 +1,13 @@
+{
+  "name": "cloud-lap8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Seangsokheng/cloud-lap8.git",
+  "author": "Seang Sokheng <wwhengww@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "express": "^4.21.2",
+    "mocha": "^11.0.1"
+  }
+}
