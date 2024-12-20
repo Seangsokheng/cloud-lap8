@@ -2,6 +2,7 @@
   "name": "cloud-lap8",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "repository": "https://github.com/Seangsokheng/cloud-lap8.git",
   "author": "Seang Sokheng <wwhengww@gmail.com>",
   "license": "MIT",
